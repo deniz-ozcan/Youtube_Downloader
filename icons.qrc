@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/gear.svg</file>
+    <file>icons/search.svg</file>
+    <file>icons/x.svg</file>
+    <file>icons/480p.svg</file>
+    <file>icons/720p.svg</file>
+    <file>icons/1080p.svg</file>
+    <file>icons/1440p.svg</file>
+    <file>icons/2160p.svg</file>
+    <file>icons/4320p.svg</file>
+    <file>icons/arrow-down-circle.svg</file>
+    <file>icons/arrow-down-left.svg</file>
+    <file>icons/film.svg</file>
+    <file>icons/grid.png</file>
+    <file>icons/maximize.svg</file>
+    <file>icons/minimize.svg</file>
+    <file>icons/music.svg</file>
+    <file>icons/yes.png</file>
+    <file>icons/youtube.svg</file>
+  </qresource>
+</RCC>
