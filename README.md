@@ -41,28 +41,24 @@
   <p align="center">
     <img src="https://github.com/deniz-ozcan/Youtube_Downloader/blob/main/result.gif" alt="App Logo" width="500px" height="300px" />
   </p>
-  <p align="justify">
-     When downloading videos from youtube, we want to have simple app. So we may need a downloader. 
-    <br>
-     The idea of designing a downloader that we can use in our own applications can be implemented quite successfully.
-  </p>
+
 
   ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
     <h2 id="howtoinstall">⛓️ How to install</h2>
   
   <p align="justify">
-    There are two way to deal with it:
+    There are two ways to deal with it:
   <ol>
-    <li>Build an executable file with Pyinstaller </li>
+    <li>Build an executable file with Pyinstaller. </li>
       <ul>
          <li> Open the location where all the documents are located.</li>
          <li> Click the right button while pressing the Shift key.</li>
          <li> You can see "Open powershell window here" .</li>
          <li> pyinstaller --onefile -w -i .\youtube.svg .\main.py</li>
          <li> Run this line of code with Shell.</li>
-         <li> You can see executable file in dist folder in that folder</li>
+         <li> You can see executable file in dist folder in that folder.</li>
       </ul>
-    <li>Run Main(main.py) file with IDE</li>
+    <li>Run Main(main.py) file with IDE.</li>
    </ol>
   </p>
   
